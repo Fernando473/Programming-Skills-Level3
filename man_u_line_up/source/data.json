@@ -1,0 +1,294 @@
+{
+    "data": [
+        {
+            "team": "Tottenham Hotspur",
+            "players": [
+                {
+                    "name": "Hugo Lloris",
+                    "punctuation": 85,
+                    "position": "Goalkeeper"
+                },
+                {
+                    "name": "Guglielmo Vicario",
+                    "punctuation": 79,
+                    "position": "Goalkeeper"
+                },
+                {
+                    "name": "Fraser Forster",
+                    "punctuation": 79,
+                    "position": "Goalkeeper"
+                },
+                {
+                    "name": "Brandon Austin",
+                    "punctuation": 79,
+                    "position": "Goalkeeper"
+                },
+                {
+                    "name": "Eric Dier",
+                    "punctuation": 80,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Cristian Romero",
+                    "punctuation": 80,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Davinson Sánchez",
+                    "punctuation": 74,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Japhet Tanganga",
+                    "punctuation": 70,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Matt Doherty",
+                    "punctuation": 70,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Djed Spence",
+                    "punctuation": 70,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Sergio Reguilón",
+                    "punctuation": 74,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Ben Davies",
+                    "punctuation": 76,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Joe Rodon",
+                    "punctuation": 70,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Mislav Orsic",
+                    "punctuation": 71,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Oliver Skipp",
+                    "punctuation": 70,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Pierre-Emile Højbjerg",
+                    "punctuation": 70,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Yves Bissouma",
+                    "punctuation": 72,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "James Maddison",
+                    "punctuation": 74,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Giovani Lo Celso",
+                    "punctuation": 78,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Ryan Sessegnon",
+                    "punctuation": 80,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Dejan Kulusevski",
+                    "punctuation": 60,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Pape Sarr",
+                    "punctuation": 65,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Rodrigo Bentancur",
+                    "punctuation": 65,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Oliver Skipp",
+                    "punctuation": 65,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Son Heung-Min",
+                    "punctuation": 78,
+                    "position": "Forward"
+                },
+                {
+                    "name": "Richarlison",
+                    "punctuation": 82,
+                    "position": "Forward"
+                },
+                {
+                    "name": "Bryan Gil",
+                    "punctuation": 80,
+                    "position": "Forward"
+                },
+                {
+                    "name": "Timo Werner",
+                    "punctuation": 82,
+                    "position": "Forward"
+                },
+                {
+                    "name": "Brennan Johnson",
+                    "punctuation": 70,
+                    "position": "Forward"
+                },
+                {
+                    "name": "Manor Solomon",
+                    "punctuation": 70,
+                    "position": "Forward"
+                },
+                {
+                    "name": "Alejo Véliz",
+                    "punctuation": 75,
+                    "position": "Forward"
+                },
+                {
+                    "name": "Dane Scarlett",
+                    "punctuation": 75,
+                    "position": "Forward"
+                }
+            ]
+        },
+        {
+            "team": "Manchester United",
+            "players": [
+                {
+                    "name": "André Onana",
+                    "punctuation": 80,
+                    "position": "Goalkeeper"
+                },
+                {
+                    "name": "Tom Heaton",
+                    "punctuation": 75,
+                    "position": "Goalkeeper"
+                },
+                {
+                    "name": "Altay Bayindir",
+                    "punctuation": 69,
+                    "position": "Goalkeeper"
+                },
+                {
+                    "name": "Victor Lindelöf",
+                    "punctuation": 80,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Harry Maguire",
+                    "punctuation": 82,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Lisandro Martínez",
+                    "punctuation": 82,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Tyrell Malacia",
+                    "punctuation": 67,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Raphaël Varane",
+                    "punctuation": 80,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Diogo Dalot",
+                    "punctuation": 89,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Luke Shaw",
+                    "punctuation": 89,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Aaron Wan-Bissaka",
+                    "punctuation": 70,
+                    "position": "Defender"
+                },
+                {
+                    "name": "Sofyan Amrabat",
+                    "punctuation": 76,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Scott McTominay",
+                    "punctuation": 80,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Bruno Fernandes",
+                    "punctuation": 88,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Christian Eriksen",
+                    "punctuation": 67,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Mason Mount",
+                    "punctuation": 77,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Kobbie Mainoo",
+                    "punctuation": 65,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Daniel Gore",
+                    "punctuation": 60,
+                    "position": "Midfielder"
+                },
+                {
+                    "name": "Anthony Martial",
+                    "punctuation": 50,
+                    "position": "Forward"
+                },
+                {
+                    "name": "Marcus Rashford",
+                    "punctuation": 76,
+                    "position": "Forward"
+                },
+                {
+                    "name": "Antony",
+                    "punctuation": 75,
+                    "position": "Forward"
+                },
+                {
+                    "name": "Rasmus Højlund",
+                    "punctuation": 80,
+                    "position": "Forward"
+                },
+                {
+                    "name": "Alejandro Garnacho",
+                    "punctuation": 85,
+                    "position": "Forward"
+                },
+                {
+                    "name": "Facundo Pellistri",
+                    "punctuation": 75,
+                    "position": "Forward"
+                }
+            ]
+        }
+    ]
+}
