@@ -123,6 +123,8 @@ def select_player(players, position, max_selections):
         if player:
             selected_players.append(player)
             print(f"{position} chosen: {player.name}")
+            names_selected = [player.name for player in selected_players]
+            print("Your current players: ", "  -  ".join(names_selected))
             players = delete_selected_player(players, player)  
         else:
             print(f"Invalid {position} name. Please try again.")

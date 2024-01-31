@@ -6,7 +6,7 @@ from utils.mapper import Data, Player
 from views.line_up import display_lineup
 
 
-file_path = os.path.abspath("man_u_line_up\source\data.json")
+file_path = os.path.abspath("ex_1_man_u_line_up\source\data.json")
 
     
 def main():
